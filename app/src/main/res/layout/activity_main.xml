@@ -7,7 +7,7 @@
     android:fitsSystemWindows="true">
 
     <!-- 你的内容布局-->
-    <include layout="@layout/navigation_content"/>
+    <include layout="@layout/activity_content"/>
    <!-- <include layout="@layout/fragment_container"/>-->
 
     <android.support.design.widget.NavigationView

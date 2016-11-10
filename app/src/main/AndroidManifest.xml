@@ -32,8 +32,8 @@
         </activity>
 
         <activity android:name=".DetailActivity"/>
-        <activity android:name=".SecondTabActivity"/>
-        <activity android:name=".ThirdTabActivity"/>
+        <activity android:name=".home.SecondTabActivity"/>
+        <activity android:name=".home.ThirdTabActivity"/>
     </application>
 
 </manifest>
